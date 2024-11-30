@@ -4,7 +4,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1saory&label=Profile%20views&color=0e75b6&style=flat" alt="1saory" /> </p>
 
-- 🌱 I’m currently learning **Dicoding**
+- 🌱 I’m currently learning in **Dicoding**
 
 - 📫 How to reach me **1samsory@gmail.com**
 
