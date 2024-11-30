@@ -2,13 +2,12 @@
 <h3 align="center">A student</h3>
 <div align="center">
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1saory&label=Profile%20views&color=0e75b6&style=flat" alt="1saory" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1saory&label=Profile%20views&color=0e75b6&style=flat" alt="1saory" /> </p>
 
-- 🌱 I’m currently learning in **Dicoding**
+🌱 I’m currently learning in **Dicoding**
 
-- 📫 How to reach me **1samsory@gmail.com**
+📫 How to reach me **1samsory@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
