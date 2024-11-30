@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm isa</h1>
 <h3 align="center">A student</h3>
+<div align="center">
+  <h3>Visitor</h3>
+  <img src="https://profile-counter.glitch.me/EsCore/count.svg?" /> <br>
+  <h3>Project Status</h3>
+  
+  [![Build Status](https://img.shields.io/badge/Build-Passing-yellow.svg?)](https://github.com/EsCore/backend-api/actions)
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](https://opensource.org/licenses/MIT)
+  [![Version](https://img.shields.io/badge/Version-1.0.0-yellow.svg)](https://github.com/EsCore/backend-api/releases)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1saory&label=Profile%20views&color=0e75b6&style=flat" alt="1saory" /> </p>
 
